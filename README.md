@@ -4,7 +4,7 @@ This script develops several machine learning models including Decision Tree, Ra
 
 - Objective: To classify two types of users of a specific online product (Paid Online users vs Organic users) based on different features of users behaviors such as adblock is on/off, total online time per day, country, etc.
 
-- Reason: As a technology company selling online products (app), Company A launches many marketing campaign throughout the year. One of the most commonly launched marketing campaign is Online advertisement, where the online ads will be exposed to Internet users when they are using browers.
+- Reason: As a technology company selling online products (app), Company A launches many marketing campaigns throughout the year. One of the most commonly launched marketing campaigns is Online advertisement, where the online ads will be exposed to Internet users when they are using browers.
 If the new users download the app by clicking directly the online ads, they will be considered Paid online users.
 If the new users search the app by any search engine and download the app by themselves, they will be considered Organic users.
 However, there are a certain amount of users who did not know about the app before, and by seeing the online ads, they know about the app.
